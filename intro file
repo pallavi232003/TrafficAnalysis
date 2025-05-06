@@ -1,1 +1,20 @@
-context
+Project-Bangalore Traffic Analysis
+
+Goal:
+The main objective was to understand traffic patterns in Bangalore, identify congestion hotspots, and propose actionable insights for smoother traffic flow—especially focusing on peak hours and accident-prone zones.
+
+Datasets & Tools:
+
+Dataset: Bangalore traffic police data (accidents, vehicle counts), public datasets (weather, roadwork), and Google Maps traffic APIs.
+
+Tools:
+
+Python (Pandas, NumPy) for data wrangling.
+
+Seaborn & Matplotlib for visualizations.
+
+QGIS for spatial analysis and heatmaps.
+
+Key Insight/Deliverable:
+We identified that traffic congestion was highest near IT corridors during weekday mornings (8–10 AM) and evenings (5–8 PM). A significant correlation was found between rain and increased accident rates (~25% spike). The deliverable was a detailed report with visual dashboards and a heatmap showing accident hotspots, which can assist in better urban traffic planning.
+
